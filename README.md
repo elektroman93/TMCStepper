@@ -1,5 +1,5 @@
 Arduino library for Trinamic TMC stepper motor drivers.
-
+SKOMA MOD !!!!
 Supported TMC drivers:
 * [TMC2130][2130]
 * [TMC2160][2160]
